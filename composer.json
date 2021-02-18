@@ -1,5 +1,5 @@
 {
-  "name": "alibabacloud/client",
+  "name": "alibabacloud/client_dev",
   "homepage": "https://www.alibabacloud.com/",
   "description": "Alibaba Cloud Client for PHP - Use Alibaba Cloud in your PHP project",
   "keywords": [
