@@ -34,7 +34,7 @@
     "ext-mbstring": "*",
     "ext-simplexml": "*",
     "ext-xmlwriter": "*",
-    "guzzlehttp/guzzle": "^6.3|^7.0",
+    "hyperf/guzzle": "^2.*",
     "danielstjules/stringy": "^3.1",
     "mtdowling/jmespath.php": "^2.5",
     "adbario/php-dot-notation": "^2.2",
